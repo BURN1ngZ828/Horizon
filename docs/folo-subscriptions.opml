@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Folo 订阅合集（Horizon + TrendRadar + 精选源）</title>
+  </head>
+  <body>
+    <outline text="AI 日报与热榜雷达" title="AI 日报与热榜雷达">
+      <outline type="rss" text="Horizon 每日科技 AI 简报（中文）" title="Horizon 每日科技 AI 简报（中文）" xmlUrl="https://burn1ngz828.github.io/Horizon/feed-zh.xml" htmlUrl="https://burn1ngz828.github.io/Horizon/" />
+      <outline type="rss" text="TrendRadar 全网热榜与 AI 分析" title="TrendRadar 全网热榜与 AI 分析" xmlUrl="https://burn1ngz828.github.io/TrendRadar/feed.xml" htmlUrl="https://burn1ngz828.github.io/TrendRadar/" />
+    </outline>
+    <outline text="英文前沿技术与 AI" title="英文前沿技术与 AI">
+      <outline type="rss" text="Simon Willison's Weblog" title="Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/" />
+      <outline type="rss" text="vLLM Blog" title="vLLM Blog" xmlUrl="https://vllm.ai/blog/rss.xml" htmlUrl="https://vllm.ai/blog" />
+      <outline type="rss" text="GitHub Trending - Daily" title="GitHub Trending - Daily" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://github.com/trending" />
+      <outline type="rss" text="Hacker News Frontpage" title="Hacker News Frontpage" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/" />
+      <outline type="rss" text="Hugging Face Daily Papers" title="Hugging Face Daily Papers" xmlUrl="https://rsshub.app/huggingface/daily-papers" htmlUrl="https://huggingface.co/papers" />
+    </outline>
+    <outline text="中文科技与社区" title="中文科技与社区">
+      <outline type="rss" text="少数派 (SSPAI)" title="少数派 (SSPAI)" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/" />
+      <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="https://www.ruanyifeng.com/blog/" />
+      <outline type="rss" text="V2EX" title="V2EX" xmlUrl="https://v2ex.com/index.xml" htmlUrl="https://v2ex.com/" />
+      <outline type="rss" text="知乎热榜" title="知乎热榜" xmlUrl="https://rsshub.app/zhihu/hot" htmlUrl="https://www.zhihu.com/hot" />
+      <outline type="rss" text="B站每周必看" title="B站每周必看" xmlUrl="https://rsshub.app/bilibili/weekly?disableEmbed=1" htmlUrl="https://www.bilibili.com/v/popular/weekly" />
+    </outline>
+  </body>
+</opml>
